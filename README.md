@@ -1,3 +1,3 @@
 # Human-Accelerometer-Activity-Recognition
 
-From Accelerometer data, collected at leftwrit, activities like walking, descending_stairs, ascending_stairs, driving has been  classified with accuracy of 86% at frame size 6 using convolutional neural network.
+Human activities like walking, descending_stairs, ascending_stairs, and driving have been  classified using a convolutional neural network and accelerometer data (collected at left wrist (frame_size 6) and left hip (frame_size 3))
